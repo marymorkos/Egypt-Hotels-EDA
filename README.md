@@ -24,9 +24,6 @@ Get insights into the amenities offered most frequently by hotels across Egypt. 
 
 ---
 
-
----
-
 ## 🛠️ Technologies Used
 
 - **Python**: Data analysis and manipulation.
