@@ -24,19 +24,6 @@ Get insights into the amenities offered most frequently by hotels across Egypt. 
 
 ---
 
-## 🌐 View the Project
-
-Dive into the complete analysis and interactive visualizations:
-
-- **Project Overview**: [Explore Egypt Hotel Ratings and Recommendations](https://marymorkos.github.io/Egypt-Hotels-EDA/)
-
----
-
-### 🗺️ Interactive Map of High-Rated Hotels
-
-Click below to explore the interactive map, allowing you to view locations, ratings, and prices of top-rated hotels across Egypt. This map provides a visually engaging experience to identify clusters of high-quality hotels in popular regions.
-
-- **[View High-Rated Hotels Map in Egypt](https://marymorkos.github.io/Egypt-Hotels-EDA/High_Rated_Hotels_Map.html)**
 
 ---
 
